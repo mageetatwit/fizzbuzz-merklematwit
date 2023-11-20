@@ -1,5 +1,0 @@
-﻿Tests
-Check to make sure it’s case insensitive by trying words with different capitalization .
-Check to make sure if you type the wrong number and wrong word that the user is eliminated. 
-Check that the right inputs work up until 30.
-Check that you win when you reach the winning number(10,001)
